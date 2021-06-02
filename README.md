@@ -3,6 +3,14 @@
 ### This is a work in progress and the code may be messy/buggy/not work at all.
 If you have questions please contact Eduardo da Veiga Beltrame - edaveiga@caltech.edu - https://munfred.com 
 
+
+
+**The best working tutorial notebook is this one:** `2021_06_01_example_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb`
+
+**Which you can open directly in Colab:** https://colab.research.google.com/github/Munfred/worm-markers/blob/master/2021_06_01_example_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb
+
+
+
 ### Summary
 This is a simple computational workflow for using single cell RNA sequencing (scRNAseq) data to identify promising marker gene candidates in C. elegans. This workflow leverages the scvi-tools package (https://scvi-tools.org), which uses deep learning to create a probabilistic model of gene expression in single cells. The workflow is composed of three steps: 
 
