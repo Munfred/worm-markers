@@ -5,9 +5,9 @@ If you have questions please contact Eduardo da Veiga Beltrame - edaveiga@caltec
 
 
 
-**The best working tutorial notebook is this one:** `2021_06_01_example_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb`
+**The best working tutorial notebook is this one:** `2021_10_05_interactive_+_static_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb`
 
-**Which you can open directly in Colab:** https://colab.research.google.com/github/Munfred/worm-markers/blob/master/2021_06_01_example_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb
+**Which you can open directly in Colab:** https://colab.research.google.com/github/Munfred/worm-markers/blob/master/2021_10_05_interactive_%2B_static_swarmplot_Finding_C_elegans_neuron_markers_with_the_CeNGEN_dataset.ipynb
 
 
 
